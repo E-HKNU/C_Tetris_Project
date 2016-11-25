@@ -1,1 +1,3 @@
-# C_Tetris_Project
+### C_Tetris_Project
+
+#Making Tetris with Clang

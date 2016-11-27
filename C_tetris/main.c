@@ -1,5 +1,5 @@
-// 2016250055 È«Áø¿ì
-// 2016250033 º¯¿ì¼·
+// 2016250055 Jinwoo
+// 2016250033 Wooseob 
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -27,7 +27,7 @@ int main(void)
 			{
 				if(Z_shape[dim][row][col]==1)
 				{
-					printf("¡á");
+					printf("= ");
 				}
 				else
 					printf("  "); 

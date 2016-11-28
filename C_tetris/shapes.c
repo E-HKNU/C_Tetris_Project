@@ -1,11 +1,13 @@
-// 2016250055 È«Áø¿ì
-// 2016250033 º¯¿ì¼·
+//filename : main.c
+//
+// 2016250055 Jinwoo  Hong
+// 2016250033 Wooseob  Byeon
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
 
-bool J_shape[4][3][3] = 
+	bool J_shape[4][3][3] = 
 	{{{0,0,1},
 	  {0,0,1},
 	  {0,1,1}},

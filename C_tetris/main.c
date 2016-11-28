@@ -1,5 +1,7 @@
-// 2016250055 Jinwoo
-// 2016250033 Wooseob 
+//filename : main.c
+//
+// 2016250055 Jinwoo  Hong
+// 2016250033 Wooseob  Byeon
 
 #include <stdio.h>
 #include <stdlib.h>

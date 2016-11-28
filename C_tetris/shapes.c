@@ -1,5 +1,6 @@
 //filename : main.c
-//
+// 2016/11/28
+// storing shapes of TETRIS in 3 dimension
 // 2016250055 Jinwoo  Hong
 // 2016250033 Wooseob  Byeon
 

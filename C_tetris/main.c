@@ -26,7 +26,6 @@ int main(void)
 		if(ch == 'n')
 		{   //for new style press 'n'
 			style = rand() % 7;
-			printf("New Style! : %d\n",style);
 		}
 		display(style,dir);
 		
@@ -61,11 +60,9 @@ void rotate(char ch, int *dir)
 	{
 		case'q':
 			(*dir)--;
-			printf("going left\n");
 			break;
 		case'e':
 			(*dir)++;
-			printf("going right\n");
 			break;
 	}
 	if(*dir == -1)

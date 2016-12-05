@@ -1,3 +1,3 @@
 # C_Tetris_Project
 
-###Making Tetris with Clang
+###Making Tetris with C Programming Language.
